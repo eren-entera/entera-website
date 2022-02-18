@@ -48,7 +48,7 @@ main:
     alt: Coffee beans
     image: /img/Entera.jpg
 testimonials: []
-full_image: /img/home-jumbotron.jpg
+full_image: /img/blog-index.jpg
 pricing:
   heading: Entera
   description: TEKNOLOJİ HİZMETLERİ
