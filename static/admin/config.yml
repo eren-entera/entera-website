@@ -242,5 +242,6 @@ collections:
                         { label: Items, name: items, widget: list },
                       ],
                   },
+                  'gatsby-plugin-netlify-cms'
                 ],
             }
