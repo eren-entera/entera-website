@@ -1,5 +1,5 @@
 ---
-heading: ENTERA BULUT FAKS
+heading: ENTERA BULUT FAKSS
 path: /products
 templateKey: product-page
 title: Bulut Çözümleri
